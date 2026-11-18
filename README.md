@@ -1,4 +1,3 @@
-# Mons-V.github.io
 # Integrantes
 # Márquez Vidal Monserrat
 # Ambrosio Ricardez Josue David
